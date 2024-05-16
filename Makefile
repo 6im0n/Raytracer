@@ -8,7 +8,6 @@
 #-------------- Main Variables --------------#
 
 SRC		= 		main.cpp								\
-				Graphical/Sdl2.cpp						\
 				DataRetriever/Parsing.cpp				\
 				Math/Ray3D.cpp							\
 				Math/Vector3D.cpp						\

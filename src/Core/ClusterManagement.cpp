@@ -142,7 +142,7 @@ void App::ClusterManagement::createPPMFile(std::string filename)
         file << node.second << std::endl;
     }
 }
-
+/*
 void App::ClusterManagement::initSDL()
 {
     _sdl.initWindow();
@@ -161,3 +161,4 @@ void App::ClusterManagement::printSDL()
         _sdl.stopRendering();
     }
 }
+*/

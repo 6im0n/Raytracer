@@ -182,7 +182,7 @@ namespace App {
              * In volatile mode to prevent compiler optimization.
              */
 
-            Sdl _sdl;
+            //Sdl _sdl;
             volatile unsigned int _nbThreads;
             volatile unsigned int _windowWidth;
             volatile unsigned int _windowHeight;
