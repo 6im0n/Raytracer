@@ -63,8 +63,6 @@ namespace Core {
         _clusterManagement.executeRendering(_scene, _camera);
         _clusterManagement.sortConfig();
         _clusterManagement.createPPMFile();
-        _clusterManagement.initSDL();
-        _clusterManagement.printSDL();
     }
 
     void Engine::finalize() {}
