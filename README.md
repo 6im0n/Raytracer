@@ -72,6 +72,7 @@ The program was developed using the following technologies:
 - [⛵ Alban](https://github.com/Peralban)
 - [🐟 Simon](https://github.com/6im0n)
 - [🦁 Antoine](https://github.com/Antoinegtir)
+- [☀️ Florent](https://github.com/C0Florent)
 
 
 ## **🎮 How to Use:**
