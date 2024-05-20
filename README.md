@@ -72,6 +72,7 @@ The program was developed using the following technologies:
 - [⛵ Alban](https://github.com/Peralban)
 - [🐟 Simon](https://github.com/6im0n)
 - [🦁 Antoine](https://github.com/Antoinegtir)
+- [☀️ Florent](https://github.com/C0Florent)
 
 
 ## **🎮 How to Use:**
@@ -82,14 +83,22 @@ The program was developed using the following technologies:
 
 For the latest stable release, visit the [Release Page](https://github.com/6im0n/Raytracer/tag/Release) and download the executable for your platform.
 
-## **💻 Screenshots:**
+## **💻 Screenshots of results:**
 
 <p align="center">
-<img width="600" height="350" src="https://github.com/6im0n/Raytracer/assets/46846093/74bb2245-bea8-4809-acf3-b094343850a8">
+<img width="880" height="440" src="https://github.com/6im0n/Raytracer/blob/main/Generated%20images/Screenshot%20from%202024-05-06%2003-15-27.png">
 </p>
 
 <p align="center">
-<img width="600" height="350" src="https://github.com/6im0n/Raytracer/assets/46846093/5c110e29-a4d8-47b7-b28e-2f2097c9a03c">
+<img width="880" height="440" src="https://github.com/6im0n/Raytracer/blob/main/Generated%20images/Screenshot%20from%202024-05-06%2008-30-14.png">
+</p>
+
+<p align="center">
+<img width="880" height="500" src="https://github.com/6im0n/Raytracer/blob/main/Generated%20images/Screenshot%20from%202024-05-17%2014-55-51.png">
+</p>
+
+<p align="center">
+<img width="880" height="500" src="https://github.com/6im0n/Raytracer/blob/main/Generated%20images/Screenshot%20from%202024-05-17%2014-32-35.png">
 </p>
 
 ## **👐 Contribute:**
